@@ -1,4 +1,4 @@
-### <samp>Hi there, I'm hanzhang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>Hi there, I'm hanzhang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 ### Glad to see you here!
 
@@ -20,10 +20,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-
 📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanzhang2566&layout=default&show_icons=true&theme=cobalt&bg_color=DEG,b9586f,904e95" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzhang2566&layout=default"/>
-</p>
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanzhang2566&layout=default&show_icons=true&theme=cobalt&bg_color=DEG,b9586f,904e95" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzhang2566&layout=default"/> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
